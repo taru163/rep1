@@ -4,10 +4,9 @@
     <h4>
       Collage Name 
     </h4>
-    <p>
-    <br>
-      DRR GOVT Poleytecnic (DVG)
-      Studying in Computer Sceince Engg
+    <p
+      <br>DRR GOVT Poleytecnic (DVG)</br>
+      I'm Computer Sceince Engg
     </p>
   </body>
 </html>
